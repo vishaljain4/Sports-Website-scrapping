@@ -1,0 +1,42 @@
+Olympic Sports
+Archery
+Artistic Gymnastics
+Athletics
+Badminton
+Basketball
+Beach Volleyball
+Boxing
+Cricket
+Canoe Slalom
+Canoe Sprint
+Cycling BMX
+Cycling Mountain Bike
+Cycling Road
+Cycling Track
+Diving
+Equestrian
+Fencing
+Football
+Golf
+Handball
+Hockey
+Judo
+Marathon Swimming
+Modern Pentathlon
+Rhythmic Gymnastics
+Rowing
+Rugby Sevens
+Sailing
+Shooting
+Swimming
+Synchronised Swimming
+Table Tennis
+Taekwondo
+Tennis
+Trampoline Gymnastics
+Triathlon
+Volleyball
+Water Polo
+Weightlifting
+Wrestling
+.
